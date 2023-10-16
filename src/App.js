@@ -2,8 +2,8 @@ import React from "react";
 
 const App = () => {
   const portfolioData = {
-    name: "SingamreddyRakshitha",
-    reg:"21BCE7122",
+    name: "G.Aditya",
+    reg:"21BCE7962",
     place: "Vijayawada, India",
     skills: ["Artifical Intelligence", "Machine learning", "App Development", "Web Development","Public Speaking","Debate","Event Management"],
     projects: [
