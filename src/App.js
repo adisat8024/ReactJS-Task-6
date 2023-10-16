@@ -2,8 +2,8 @@ import React from "react";
 
 const App = () => {
   const portfolioData = {
-    name: "Phani Kumar",
-    reg:"21BCE7265",
+    name: "G.Aditya",
+    reg:"21BCE7962",
     place: "Vijayawada, India",
     skills: ["Artifical Intelligence", "Machine learning", "App Development", "Web Development","Public Speaking","Debate","Event Management"],
     projects: [
